@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anuj Negi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujnegi15072005&label=Profile%20views&color=0e75b6&style=flat" alt="anujnegi15072005" /> </p>
 
-- 🔭 I’m currently doing **Frontend Development**
-- 🌱 I’m currently learning **React.js**
+- 🔭 I’m currently doing **Full Stack Development**
+- 🌱 I’m currently learning **Express**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me anujn158@gmail.com
 - ⚡ Fun fact: **A master in all is master in none**
