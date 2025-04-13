@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujnegi15072005&label=Profile%20views&color=0e75b6&style=flat" alt="anujnegi15072005" /> </p>
 
-- 🔯 I’m currently doing **Full Stack Development**  
-- 🌱 I’m currently learning **Express**  
+- 🔯 I’m currently doing **Mern Stack Development**  
+- 🌱 I’m currently learning **Nextjs**  
 - 💬 Ask me about **Web Development**  
 - 👨‍💻 How to reach me **anujn158@gmail.com**  
 - ⚡ Fun fact: **A master in all is master in none**  
