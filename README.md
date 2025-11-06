@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Anuj Negi</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anujnegi15072005&label=Profile%20views&color=0e75b6&style=flat" alt="anujnegi15072005" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=anujnegi15072005&label=Profile%20views&color=0e75b6&style=flat" alt="anujnegi15072005" />
+</p>
 
-- 🔯 I’m currently doing **Mern Stack Development**  
-- 🌱 I’m currently learning **Nextjs**  
-- 💬 Ask me about **Web Development**  
-- 👨‍💻 How to reach me **anujn158@gmail.com**  
-- ⚡ Fun fact: **A master in all is master in none**  
+- 🔯 I’m currently working on **MERN Stack Development**  
+- 🌱 I’m currently learning **Docker**  
+- 💬 Ask me about **Web Development** 
+- 👨‍💻 Reach me at **anujn158@gmail.com**  
+- ⚡ Fun fact: **A jack of all trades is better than a master of one**  
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -31,5 +35,17 @@
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
   </a>
 </p>
