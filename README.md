@@ -8,8 +8,7 @@
 - 🔯 I’m currently working on **MERN Stack Development**  
 - 🌱 I’m currently learning **Docker**  
 - 💬 Ask me about **Web Development** 
-- 👨‍💻 Reach me at **anujn158@gmail.com**  
-- ⚡ Fun fact: **A jack of all trades is better than a master of one**  
+- 👨‍💻 Reach me at **anujn158@gmail.com**    
 
 ---
 
